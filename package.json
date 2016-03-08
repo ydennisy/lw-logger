@@ -1,0 +1,28 @@
+{
+  "name": "lw-logger",
+  "version": "0.0.1",
+  "description": "a very lightweight logger",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Dennis Yurkevich",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [
+    "logger",
+    "lw-logger"
+  ],
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
